@@ -29,7 +29,7 @@ def circulate():
     print("After circulating the values are:", result)
 ```
 ## Output:
-![output](<circulate screenshot.png>)
+![output](<circulate screenshot-1.png>)
 
 ## Result:
 Thus the python program for
